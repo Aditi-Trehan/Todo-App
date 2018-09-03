@@ -1,0 +1,52 @@
+.container{
+    height:100px;
+    width:100%;
+}
+.row{
+    height:20px;
+    margin:auto;
+    padding-top:30px;
+}
+.style{
+    width:35%;
+    margin:auto;
+    height:40px;
+    font-size:20px;
+    border: 1px solid #000;
+    padding:5px;
+}
+.buttonstyle{
+    height:45px;
+    width:7%;
+}
+.dynamic{
+    height:20px;
+    width:35%;
+    font-size:15px;
+    display:inline-block;
+    color:#000;
+    text-align:left;
+    border:1px solid #000;
+    margin-top:10px;
+    padding:5px;
+    
+}
+.button{
+    color:#000;
+    display:inline-block;
+    /* margin-left:50%; */
+    float:right;
+    cursor: pointer;
+}
+.line{
+    text-decoration:line-through;
+}
+.close{
+    height:20px;
+    width:23px;
+    /* margin-left:30px; */
+    float:right;
+    display:inline-block;
+    text-align:center;
+    cursor: pointer;
+}
